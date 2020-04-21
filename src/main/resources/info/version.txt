@@ -1,0 +1,8 @@
+
+Global Game Jam 2019, 25th-27th January
+Cergy, FRANCE
+Pierre-Henri FRICOT (programming)
+Romuald GRIGNON  (programming)
+Maxime LE TENO (gfx)
+Kilian LEMPEREUR (music)
+v${project.version}
